@@ -49,3 +49,4 @@ explanation: 정규화는 중복을 제거하고 이상현상을 방지하여 �
 - 사용자별 진행률/랭킹 서버 저장 (Prisma/SQLite)
 - CMS(WordPress/Sanity)로 전환해 구조화 강화
 # card_quiz
+# card_quiz
